@@ -30,3 +30,19 @@
     background-color:#1763a5;
     color: #fff;
 }
+
+
+@media(max-width:320px){
+
+    .cabecalho__a{
+        padding: 2%;
+        width: 2%;
+
+    }
+    
+    .cabecalho__ul{
+      justify-content: space-around;
+    }
+
+
+}
